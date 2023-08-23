@@ -1,0 +1,20 @@
+{
+  "name": "basic-node-app",
+  "version": "1.0.0",
+  "description": "New shit",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/gachezra/node-app.git)"
+  },
+  "author": "GachEzra",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
